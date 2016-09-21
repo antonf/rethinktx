@@ -163,7 +163,7 @@ Roadmap
 -------
 
 * Implement tests that will simulate cluster node failures during execution of
-  several concurrent transactions and check database for correctness   
-* Table locking for consistent read queries
+  several concurrent transactions and check database for correctness
+* Transaction aware change feeds
 * Various optimizations that will make certain database interaction patterns
   faster (like reading and updating single document)
