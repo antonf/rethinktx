@@ -162,8 +162,4 @@ Running tests against real database:
 Roadmap
 -------
 
-* Implement tests that will simulate cluster node failures during execution of
-  several concurrent transactions and check database for correctness
-* Transaction aware change feeds
-* Various optimizations that will make certain database interaction patterns
-  faster (like reading and updating single document)
+I have no plans to continue developing this project
